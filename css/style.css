@@ -38,3 +38,6 @@ thead>tr:first-child{
     letter-spacing: 2px;    
 }
 
+.navbar{
+    background-color: #fd8800;
+}
